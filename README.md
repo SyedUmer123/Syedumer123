@@ -1,11 +1,23 @@
-# Hi there! 👋 I'm Syed Umer Razi
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedumer123&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="2">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedumer123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syedumer123&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf2f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div># Hi there! 👋 I'm Syed Umer Razi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Aspiring+Machine+Learning+Engineer;Computer+Science+Student+%40+FAST+NUCES;Building+AI+Solutions+for+Tomorrow" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syedumer763&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syedumer123&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
 </div>
 
 ## 🚀 About Me
@@ -107,14 +119,14 @@ class MachineLearningEngineer:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedumer763)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedumer763@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syedumer763)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syedumer123)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syedumer763&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Syedumer123&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
